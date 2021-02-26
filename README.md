@@ -1,2 +1,2 @@
 # LinReg
-Computation and plotting of linear model
+Computation and plotting of linear model of Thermal Noise Experiment
